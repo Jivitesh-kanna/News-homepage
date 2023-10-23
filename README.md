@@ -1,7 +1,8 @@
 # News-homepage
-![Screenshot (54)](https://github.com/Jivitesh-kanna/News-homepage/assets/93578467/2a0f7f5b-811d-49d4-8a31-3aaa8b943e57)
 
-![Screenshot (55)](https://github.com/Jivitesh-kanna/News-homepage/assets/93578467/b2eb8523-e4d4-437e-b1df-c9a355b10089)
+![Screenshot (54)](https://github.com/Jivitesh-kanna/News-homepage/assets/93578467/6e4e9367-4bae-4874-b956-dbbae26eab0e)
+
+![Screenshot (55)](https://github.com/Jivitesh-kanna/News-homepage/assets/93578467/4199253f-f004-4213-af61-8e58b1ede991)
 
 
 A responsive news homepage built using HTML, CSS, and JavaScript with a grid system for layout. This project is designed to provide a simple and responsive layout for displaying news articles.
